@@ -1,0 +1,142 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: #DEDEDE;
+}
+div {
+	padding: 0;
+	margin: 0;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+.header {
+	position: relative;
+	height: 60px;
+	background: #333333;
+}
+
+.header img {
+	margin-left: 10px;
+	position: absolute;
+	left: 0px;
+}
+
+.nav {
+	position: absolute;
+	right: 0px;
+}
+
+.nav ul li {
+	float: left;
+	margin-left: 10px;
+}
+
+.nav ul li a {
+	text-align: center;
+	line-height: 60px;
+	display: block;
+	padding: 0px 10px;
+	color:#fff; /* 设置文字颜色 */
+	text-decoration:none; /* 去掉下划线 */
+}
+
+.nav ul li a:hover {
+	background:#146C9C; /* 变换背景色 */
+	color:#fff; /* 变换文字颜色 */
+}
+
+.passage {
+	border-width: 1px 2px 2px 1px;
+	border-color: #848484;
+	border-style: solid;
+	margin: 20px;
+	padding: 20px;
+	background: #ffffff;
+}
+
+.passage h1 {
+	font-size: 1.5em;
+}
+
+.passage h2 {
+	font-size: 1.2em;
+	color: #848484
+}
+
+.passage p {
+	text-indent: 2em;
+}
+
+.passage span {
+	font-size: 0.8em;
+	color: #848484;
+}
+
+.passage li div {
+	width: 200px;
+	margin-top: 20px;
+	border-width: 1px;
+	border-color: #848484;
+	border-style: solid;
+}
+
+table {
+	border-collapse:collapse;  
+	border-color: #CCCCCC;
+}
+
+th {
+	padding: 10px;
+	color: #fff;
+	background: #323232;
+}
+
+td {
+	padding: 10px;
+}
+
+.td-footer {
+	color: #000;
+	background: #CCCCCC;
+}
+
+.slide {
+	border-width: 1px 2px 2px 1px;
+	border-color: #848484;
+	border-style: solid;
+	margin: 20px;
+	padding: 20px;
+	background: #ffffff;
+}
+
+.slide div {
+	padding: 10px;
+}
+
+.tips {
+	display: inline-block;
+    width:35%;
+    text-align: right;
+    padding-right:15px;
+}
+
+.errorTips {
+    margin-left:35%;
+    padding-left:15px;
+    font-size:12px;
+    color: #aaa;
+}
+
+#sureButton {
+	display: block;
+	margin: 0px auto;
+	width: 80%;
+	color: #fff;
+	background: #323232;
+}
+
