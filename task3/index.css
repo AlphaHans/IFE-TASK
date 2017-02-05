@@ -1,0 +1,62 @@
+body,ul,li,p {
+	margin:0px 0px;
+	padding: 0px 0px;
+}
+
+ul {
+	list-style: none;
+}
+
+li {
+	border-color: #999;
+	border-width: 1px;
+	margin-top: 10px;
+	border-style: solid;
+}
+
+
+.team {
+	overflow: auto;
+	margin: 20px;
+	background: #eee;
+	border-color: #999;
+	border-width: 1px;
+	border-style: solid;
+	padding: 20px;
+}
+
+.name {
+	position: relative;
+	width: 160px;
+	background: #fff;
+	padding: 20px;
+	border-color: #999;
+	border-width: 1px;
+	border-style: solid;
+	float: left;
+}
+
+.name span {
+	position: absolute;
+	top: 20px;
+}
+
+.intro {
+	padding: 20px;
+	background: #fff;
+	border-color: #999;
+	border-width: 1px;
+	border-style: solid;
+	margin-left: 220px;
+	margin-right: 144px;
+}
+
+.mates {
+	background: #fff;
+	width: 82px;
+	padding: 10px 20px;
+	border-color: #999;
+	border-width: 1px;
+	border-style: solid;
+	float: right;
+}

@@ -119,9 +119,9 @@ td {
 }
 
 .tips {
-	display: inline-block;
+    float:left;/*添加后个人描述四个字才和文本域上对齐*/
+    text-align:right;
     width:35%;
-    text-align: right;
     padding-right:15px;
 }
 
