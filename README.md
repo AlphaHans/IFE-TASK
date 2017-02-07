@@ -8,3 +8,5 @@
 - [x] [任务四：定位和居中问题](http://ife.baidu.com/2016/task/detail?taskId=4)
 - [x] [任务五：零基础HTML及CSS编码（二）](http://ife.baidu.com/2016/task/detail?taskId=5)
 - [x] [任务六：通过HTML及CSS模拟报纸排版](http://ife.baidu.com/2016/task/detail?taskId=6)
+- [] [任务七：实现常见的技术产品官网的页面架构及样式布局](http://ife.baidu.com/2016/task/detail?taskId=7)
+- [x] [任务八：响应式网格（栅格化）布局](http://ife.baidu.com/2016/task/detail?taskId=8)
