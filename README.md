@@ -11,4 +11,6 @@
 - [] [任务七：实现常见的技术产品官网的页面架构及样式布局](http://ife.baidu.com/2016/task/detail?taskId=7)
 - [x] [任务八：响应式网格（栅格化）布局](http://ife.baidu.com/2016/task/detail?taskId=8)
 - [x] [任务十三：零基础JavaScript编码（一）](http://ife.baidu.com/2016/task/detail?taskId=13)
+- [x] [任务十四：零基础JavaScript编码（二）](http://ife.baidu.com/2016/task/detail?taskId=14)
+- [x] [任务十五：零基础JavaScript编码（三）](http://ife.baidu.com/2016/task/detail?taskId=15)
 
