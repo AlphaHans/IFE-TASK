@@ -3,7 +3,13 @@ body {
 	padding:0px;
 }
 
-
+/*清除浮动*/
+.row:before,
+.row:after {
+    content:"";
+    display:block;
+    clear:both;
+}
 
 /*给每个块添加基础样式*/
 [class*='col-'] {
